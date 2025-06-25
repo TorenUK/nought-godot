@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.import/
+.export/
+mono_crash.*
+*.godot-export*
+*.import
+*.translation
+*.tmp
+
+.mono/
+*.csproj
+*.sln
+obj/
+bin/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
