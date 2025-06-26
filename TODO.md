@@ -12,15 +12,15 @@ A mobile and web-based game/app built with Godot C# and Aseprite focusing on cre
 
 ### Market Research & Analysis
 
-- [ ] Research existing sobriety apps (Sober Time, I Am Sober, etc.) to identify gaps and opportunities
-- [ ] Study neurodivergence and addiction research to ensure accurate representation
-- [ ] Analyze building games (Sims, Animal Crossing) for successful mechanics
+- [x] Research existing sobriety apps (Sober Time, I Am Sober, etc.) to identify gaps and opportunities
+- [x] Study neurodivergence and addiction research to ensure accurate representation
+- [x] Analyze building games (Sims, Animal Crossing) for successful mechanics
 - [ ] Research mobile game monetization models appropriate for mental health apps
 - [ ] Identify target audience segments and create user personas
 
 ### Technical Planning
 
-- [ ] Set up development environment (Godot 4.x with C#, Aseprite, version control)
+- [x] Set up development environment (Godot 4.x with C#, Aseprite, version control)
 - [ ] Plan database schema for user data, social features, and progress tracking
 - [ ] Research GDPR/privacy compliance requirements for health-related data
 - [ ] Plan server architecture for social features and data synchronization
@@ -40,8 +40,8 @@ A mobile and web-based game/app built with Godot C# and Aseprite focusing on cre
 
 ### Project Setup
 
-- [ ] Initialize Godot project with C# scripting
-- [ ] Set up version control system (Git) with proper branching strategy
+- [x] Initialize Godot project with C# scripting
+- [x] Set up version control system (Git) with proper branching strategy
 - [ ] Create basic project structure and coding standards
 - [ ] Set up automated testing framework
 - [ ] Configure build pipeline for multiple platforms
