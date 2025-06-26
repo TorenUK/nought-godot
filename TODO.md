@@ -18,11 +18,42 @@ A mobile and web-based game/app built with Godot C# and Aseprite focusing on cre
 - [ ] Research mobile game monetization models appropriate for mental health apps
 - [ ] Identify target audience segments and create user personas
 
+### Monetization
+
+- Freemium model
+
+  - Core game free
+  - Premium upgrade unlocks extra features (e.g. character customization, safe space items, multiplayer access)
+
+- Subscription model
+
+  - Monthly or yearly recurring plans
+  - Include free trial period
+  - Premium features: dopamine tracking, deeper analytics, guide content
+
+- Donation / Pay What You Want (PWYW)
+
+  - Allow users to donate to support the app
+  - Trigger donation prompt after major milestones (e.g. 30 days sober)
+  - Optional perks: visual badge, thank you message
+
+- Cosmetic microtransactions (ethical only)
+
+  - Visual-only purchases: room decor, skins, ambient packs
+  - No gameplay advantage
+  - Avoid Fomo/limited-time pressure
+
+- Partnerships / Licensing
+
+  - Explore partnerships with mental health orgs, clinics, schools
+  - Offer sponsored premium access via institutions
+  - Pitch white-label or branded versions
+
 ### Technical Planning
 
 - [x] Set up development environment (Godot 4.x with C#, Aseprite, version control)
 - [x] Plan database schema for user data, social features, and progress tracking
-- [x] Research GDPR/privacy compliance requirements for health-related data
+- [ ] Research GDPR/privacy compliance requirements for health-related data
 - [ ] Plan server architecture for social features and data synchronization
 - [ ] Create technical specification document
 
