@@ -21,8 +21,8 @@ A mobile and web-based game/app built with Godot C# and Aseprite focusing on cre
 ### Technical Planning
 
 - [x] Set up development environment (Godot 4.x with C#, Aseprite, version control)
-- [ ] Plan database schema for user data, social features, and progress tracking
-- [ ] Research GDPR/privacy compliance requirements for health-related data
+- [x] Plan database schema for user data, social features, and progress tracking
+- [x] Research GDPR/privacy compliance requirements for health-related data
 - [ ] Plan server architecture for social features and data synchronization
 - [ ] Create technical specification document
 
