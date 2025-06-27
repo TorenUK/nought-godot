@@ -15,7 +15,7 @@ A mobile and web-based game/app built with Godot C# and Aseprite focusing on cre
 - [x] Research existing sobriety apps (Sober Time, I Am Sober, etc.) to identify gaps and opportunities
 - [x] Study neurodivergence and addiction research to ensure accurate representation
 - [x] Analyze building games (Sims, Animal Crossing) for successful mechanics
-- [ ] Research mobile game monetization models appropriate for mental health apps
+- [x] Research mobile game monetization models appropriate for mental health apps
 - [ ] Identify target audience segments and create user personas
 
 ### Monetization
